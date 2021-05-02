@@ -1,0 +1,23 @@
+$background-color: #E5E5E5;
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+      url('/fonts/open-sans-v18-latin-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''),
+      url('/fonts/open-sans-v18-latin-700.woff2') format('woff2');
+}
+
+:root {
+  font-family: 'Open Sans';
+  color: #48545B;
+  background-color: $background-color;
+}
