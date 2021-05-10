@@ -16,3 +16,6 @@ develop:
 
 build:
 	make run c="npm run build"
+
+dev-test:
+	make run c="npm run test"
