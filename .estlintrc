@@ -3,5 +3,5 @@
     "plugin:vue/vue3-recommended",
     "eslint:recommended",
     "@vue/prettier",
-  ]
+  ],
 }
